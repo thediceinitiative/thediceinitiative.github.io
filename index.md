@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Service, redefined.
 
-You can use the [editor on GitHub](https://github.com/thediceinitiative/thediceinitiative.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+The DICE Initiative is College Park High School's premier entrepreneurship club. We work closely with our community to bring fresh talent to the Greater Houston business scene.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+DICE connects high school students with local businesses to complete service projects in the fields of marketing, software development, and business management.
 
-### Markdown
+Since 2020, DICE has partnered with and completed projects for nearly two dozen organizations. Our mission is simple: help students develop both the acute skillset and altruistic drive necessary to succeed in the modern entrepreneurial age.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### About DICE
 
-# Header 1
-## Header 2
-### Header 3
+The DICE Initiative is powered by [MIT LaunchX](https://launchx.com/).
 
-- Bulleted
-- List
+From 2017 to 2020, DICE acted as an incubator, preparing teams to enter hypothetical business models into the University of Delaware’s annual Diamond Challenge. However, the adverse effects of the COVID-19 pandemic on local businesses inspired our board to rewire DICE into a community service organization. Members are now able to sharpen their own skills through real-world experience while selflessly serving small businesses and nonprofit organizations.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thediceinitiative/thediceinitiative.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+View our project showcase here (LINK WHEN PAGE IS MADE).
