@@ -1,5 +1,3 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
 <img src="https://user-images.githubusercontent.com/107160173/173173598-699923bd-29e2-4424-9109-3aeba24d1266.png" width=500 align=center>
 
 # Service, redefined.
