@@ -7,7 +7,7 @@ DICE connects high school students with local businesses to complete service pro
 Since 2020, DICE has partnered with and completed projects for nearly two dozen organizations. Our mission is simple: help students develop both the acute skillset and altruistic drive necessary to succeed in the modern entrepreneurial age.
 
 
-### About DICE
+## About DICE
 
 The DICE Initiative is powered by [MIT LaunchX](https://launchx.com/).
 
