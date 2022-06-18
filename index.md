@@ -28,8 +28,6 @@ DICE is an entirely student-led organization. Our VP of Marketing leads promotio
 
 <pre>
 <h2>Thank you, sponsors!</h2>
-  
 DICE is grateful to the following organizations for sponsoring our 2022-23 season:
 (ADD LOGOS OF SPONSORS)
-
 </pre>
