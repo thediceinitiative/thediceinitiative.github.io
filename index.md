@@ -27,7 +27,7 @@ Students love DICE because they get to see the impact of their hard work in real
 DICE is an entirely student-led organization. Our VP of Marketing leads promotion and member recruitment throughout the year, our VPs of Outreach spend their summers meeting with prospective sponsors, speakers, and partner organizations, and all of our VPs maintain supportive administrative positions. Our Category Leads work closely with DICE teams during the school year, meeting with each of their teams weekly and providing invaluable advice, instruction, and insight. The President oversees all projects and handles all administrative work.
 
 <pre>
-<b>Sponsoring Organizations</b>
+<h2>Thank you, sponsors!</h2>
   
 DICE is grateful to the following organizations for sponsoring our 2022-23 season:
 (ADD LOGOS OF SPONSORS)
