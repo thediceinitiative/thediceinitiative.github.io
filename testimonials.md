@@ -1,3 +1,7 @@
+layout: page
+title: "testimonials"
+permalink: /testimonials/
+
 ### Our impact.
 
 Previous speakers and partner organizations have taken the time to provide testimonials in support of DICE's mission and work. View them below.
