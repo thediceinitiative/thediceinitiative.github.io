@@ -2,11 +2,11 @@
 
 <p align="center">
   <a href="mailto:twcpdice@gmail.com">
-  <img src="https://raw.githubusercontent.com/thediceinitiative/thediceinitiative.github.io/d6f702b54e0fa615df0dff0bb43b84b97a83aa43/mail.svg" alt="Email" width="100" height="100
+  <img src="https://raw.githubusercontent.com/thediceinitiative/thediceinitiative.github.io/d6f702b54e0fa615df0dff0bb43b84b97a83aa43/mail.svg" alt="Email" width="100" height="100" />
   </a>
 </p>
 
-<center>Shoot us an email at <a href="mailto:twcpdice@gmail.com"> twcpdice@gmail.com </a> </center>
+<center> Shoot us an email at <a href="mailto:twcpdice@gmail.com"> twcpdice@gmail.com </a> </center>
 
 
 <p align="center">
