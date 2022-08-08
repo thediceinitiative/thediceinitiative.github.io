@@ -3,7 +3,7 @@
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="https://github.com/thediceinitiative/thediceinitiative.github.io/blob/main/headshot.jpeg" alt="Sohi" style="width:100%">
+      <img src="https://raw.githubusercontent.com/thediceinitiative/thediceinitiative.github.io/d6f702b54e0fa615df0dff0bb43b84b97a83aa43/headshot.jpg" alt="Sohi" style="width:100%">
       <div class="container">
         <h3>Sohi Patel</h3>
         <p class="title">President</p>
