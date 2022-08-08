@@ -1,7 +1,7 @@
 # Meet the Team
 
 
-<img src="https://raw.githubusercontent.com/thediceinitiative/thediceinitiative.github.io/d6f702b54e0fa615df0dff0bb43b84b97a83aa43/headshot.jpeg" alt="Sohi">
+<img src="https://github.com/thediceinitiative/thediceinitiative.github.io/blob/main/headshot.jpeg?raw=true" alt="Sohi" height=200 width=200>
 <div class="container">
   <h3>Sohi Patel</h3>
   <p class="title">President</p>
