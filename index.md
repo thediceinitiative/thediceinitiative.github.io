@@ -5,7 +5,7 @@ The DICE Initiative is College Park High School's premier entrepreneurship club.
 DICE connects high school students with local businesses to complete service projects in the fields of marketing, software development, and business management. 
 Members sharpen their own skills through real-world experience while selflessly serving small businesses and nonprofit organizations. This personal hometown connection drives the quality of the work we complete today.
 
-Since 2020, DICE has partnered with and completed projects for nearly two dozen organizations. Our mission is simple: help students develop both the acute skillset and altruistic drive necessary to succeed in the modern entrepreneurial age.
+Since 2020, DICE has partnered with and completed projects for nearly three dozen organizations. Our mission is simple: help students develop both the acute skillset and altruistic drive necessary to succeed in the modern entrepreneurial age.
 
 
 ## About DICE
