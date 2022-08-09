@@ -13,6 +13,6 @@
 <div class="container">
   <h3>Felix Li</h3>
   <p class="title">Business Management Category Lead</p>
-  <p>Felix is a junior at the Academy of Science and Technology and will serve on the DICE board during 2022-2023. He has experience in business management, programming, and BLANK. Felix loves to help others and the community through providing support and innovative solutions, thriving from his creative thinking.</p>
+  <p>Felix is a junior at the Academy of Science and Technology and will serve on the DICE board during 2022-2023. He has experience in business management, programming, and leadership. Felix loves to help others and the community through providing support and innovative solutions, thriving from his creative thinking.</p>
 </div>
 <br>
