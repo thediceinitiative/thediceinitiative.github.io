@@ -16,3 +16,11 @@
   <p>Felix is a junior at the Academy of Science and Technology and will serve on the DICE board during 2022-2023. He has experience in business management, programming, and leadership. Felix loves to help others and the community through providing support and innovative solutions, thriving from his creative thinking.</p>
 </div>
 <br>
+
+<img src="https://github.com/thediceinitiative/thediceinitiative.github.io/blob/main/rohan_head.jpg?raw=true" alt="Rohan" height=200 width=200>
+<div class="container">
+  <h3>Rohan Mehta</h3>
+  <p class="title">Software Development Category Lead</p>
+  <p>Rohan is a junior at the Academy of Science and Technology and will serve on the DICE board during 2022-2023. He has experience in dynamic leadership, computer science, and scientific research. Rohan enjoys using his programming skillset to devlop novel solutions to problems in the medical world and serve his community.</p>
+</div>
+<br>
